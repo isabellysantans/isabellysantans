@@ -1,5 +1,5 @@
-Boas vindas ao meu perfil 💙💙
-Meu nome é Isabelly Victória
+Boas vindas ao meu perfil! :)
+Meu nome é Isabelly Santana
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
